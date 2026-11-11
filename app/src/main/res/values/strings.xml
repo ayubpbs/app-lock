@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Lock</string>
+    <string name="service_description">Detects which app is opened so App Lock can ask for your PIN, password or fingerprint. It does not read or store anything on your screen.</string>
+</resources>
